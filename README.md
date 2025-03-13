@@ -1,6 +1,6 @@
 # 基于自适应超量颜色增强的泛化作物区域识别方法
 ***
-[[点此下载Demo](Demo/Demo.mp4)]
+[[点此下载Demo](https://raw.githubusercontent.com/GoldenUpwinds/Agro_domain_generalization/master/Demo/Demo.mp4)]
 
 
 金毅诚，刘国庆，李涛，项艳，朱亮，王超，王炜，裴凌
